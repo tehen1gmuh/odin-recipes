@@ -5,8 +5,8 @@ body{
 h1{
     color: maroon;
     font-size: 48px;
-    text-align: center;
     margin-bottom: 50px; 
+    text-align: center;
 }
 .homelinks a{ 
     display: block; 
@@ -33,6 +33,16 @@ h1{
     padding: 10px;
     color: maroon;
     text-decoration: none;
+}
+.top{
+    display:flex;
+    gap: 80px;
+    align-items: center;
+
+}
+.one{
+    height: auto;
+    width: 800px;
 }
 
 
