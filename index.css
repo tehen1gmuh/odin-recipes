@@ -1,0 +1,38 @@
+body{
+    background-color: honeydew;
+    font-family: arial; 
+}
+h1{
+    color: maroon;
+    font-size: 48px;
+    text-align: center;
+    margin-bottom: 50px; 
+}
+.homelinks a{ 
+    display: block; 
+    text-align: center; 
+    margin: 20px; 
+    font-size: 20px; 
+}
+.bottom{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.guypic{
+    height: auto;
+    width: 300px;
+    margin-top: 60px;
+    border: 2px solid maroon;
+}
+.rick{
+    font-size: 20px;
+    background: plum;
+    border: 2px solid maroon;
+    padding: 10px;
+    color: maroon;
+    text-decoration: none;
+}
+
+
